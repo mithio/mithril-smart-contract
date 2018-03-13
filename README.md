@@ -7,4 +7,4 @@ The smart contract that we use.
 ### Features
 - The max gaslimit when token transfer is **54500** which is extremely low even the first time address being used.
 - The Simplest SafeMath library. There are only 2 methods, `sub` and `add`.
-- Empty contructor. It's cannot be changed forever once initialized.
+- Empty constructor. It's cannot be changed forever once initialized.
